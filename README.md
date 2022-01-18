@@ -7,6 +7,7 @@ The Dojo is collection of go-to learning resources hybrid engineers have used to
 - [Learning React](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/). Grok react concepts like the virtual dom, jsx and hooks with this learn-by-example book
 - [Programming Typescript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/). Large javascript applications eventually move to typescript. this book takes a practical approach to teaching some of Typescript's unique concepts, syntax and idioms
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/ref=dp_ob_title_bk). Full of the kind of wisdom often only comes with alot of experiences and alot of mistakes. This is the kind of book that deserves a read at each phase of a career
+- [Git For Teams](https://www.oreilly.com/library/view/git-for-teams/9781491911204/). Great primer on all things git so you dont get lost when you have to cherry pick some commits or have to do a rebase, or arent afraid to force push or hard reset if the situation is right. Good git skills will save you from some painful git history debugging.
 
 ## Videos
 - **Javascript Internals**
