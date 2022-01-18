@@ -5,7 +5,8 @@ The Dojo is collection of go-to learning resources hybrid engineers have used to
 ## Books
 - [Javascript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/). Other than the [MDN Docs](https://developer.mozilla.org/en-US/), this is THE comprehensive encyclopedic reference for the javascript language. All programming starts with the language
 - [Learning React](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/). Grok react concepts like the virtual dom, jsx and hooks with this learn-by-example book
-- [Programming Typescript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/).Large javascript applications eventually move to typescript. this book takes a practical approach to teaching some of Typescript's unique concepts, syntax and idioms
+- [Programming Typescript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/). Large javascript applications eventually move to typescript. this book takes a practical approach to teaching some of Typescript's unique concepts, syntax and idioms
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/ref=dp_ob_title_bk). Full of the kind of wisdom often only comes with alot of experiences and alot of mistakes. This is the kind of book that deserves a read at each phase of a career
 
 ## Videos
 - **Javascript Internals**
