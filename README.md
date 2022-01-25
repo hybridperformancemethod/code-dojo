@@ -1,5 +1,5 @@
-# Hybrid Dojo 📖
-The Dojo is collection of go-to learning resources hybrid engineers have used to improve their knowledge. Since different team members have different learning styles, we compiled a category separated list of some of the things we have found most helpful 
+# Hybrid Code Dojo 📖
+The Code Dojo is collection of go-to learning resources hybrid engineers have used to improve their knowledge. Since different team members have different learning styles, we compiled a category separated list of some of the things we have found most helpful 
 
 
 ## Books
